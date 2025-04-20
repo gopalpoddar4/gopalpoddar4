@@ -19,7 +19,7 @@
 
 ### 🔥 Featured Projects
 - [**Notely App**](https://github.com/gopalpoddar4/Notely) – Note-taking app using MVVM, Room, Material UI  
-- [**Timeless Truth**](https://github.com/gopalpoddar4/Timeless-Truth) – Spiritual quote app for daily motivation  
+- [**Timeless Truth**](https://github.com/gopalpoddar4/Timeless-Truth) – Latest news
 - [**KU Buddy**](https://github.com/gopalpoddar4/KU-Buddy) – Kolhan University ke students ke liye must-have app
 
 ---
@@ -52,7 +52,7 @@
 ---
 
 ### 🌍 Let’s Connect
-- 📧 Gmail: [gopalpoddar1607@gmail.com](mailto:gopalpoddar1607@gmail.com)  
+- 📧 Gmail: [contact.gopalpoddar4@gmail.com](mailto:contact.gopalpoddar4@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/gopalpoddar4](https://linkedin.com/in/gopalpoddar4)  
 - 👨‍💻 GitHub: [github.com/gopalpoddar4](https://github.com/gopalpoddar4)
 
