@@ -20,7 +20,7 @@
 ### 🔥 Featured Projects
 - [**Notely App**](https://github.com/gopalpoddar4/Notely) – Note-taking app using MVVM, Room, Material UI  
 - [**Timeless Truth**](https://github.com/gopalpoddar4/Timeless-Truth) – Latest news
-- [**KU Buddy**](https://github.com/gopalpoddar4/KU-Buddy) – Kolhan University ke students ke liye must-have app
+- [**KU Buddy**](https://github.com/gopalpoddar4/KU-Buddy-RREADME) – Kolhan University ke students ke liye must-have app
 
 ---
 
