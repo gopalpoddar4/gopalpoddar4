@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  [Portfolio](https://gopalpoddar4.github.io/Gopal-Portfolio/)
+  <a href ="https://gopalpoddar4.github.io/Gopal-Portfolio/" target="_blank">Portfolio</a>
 </p>
 
 ---
