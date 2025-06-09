@@ -51,6 +51,10 @@
 
 ---
 
+### [Portfolio](https://gopalpoddar4.github.io/Gopal-Portfolio/)
+
+---
+
 ### 🌍 Let’s Connect
 - 📧 Gmail: [contact.gopalpoddar4@gmail.com](mailto:contact.gopalpoddar4@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/gopalpoddar4](https://linkedin.com/in/gopalpoddar4)  
