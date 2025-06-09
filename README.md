@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gopalpoddar4&label=Profile%20views&color=0e75b6&style=flat" alt="gopalpoddar4" />
+  [Portfolio](https://gopalpoddar4.github.io/Gopal-Portfolio/)
 </p>
 
 ---
@@ -48,10 +48,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gopalpoddar4&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
-
----
-
-### [Portfolio](https://gopalpoddar4.github.io/Gopal-Portfolio/)
 
 ---
 
