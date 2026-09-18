@@ -64,7 +64,7 @@ Here are some of my best Android apps you can explore:
 ### 🌍 Connect With Me
 Let’s collaborate or chat about Android, UI/UX, and innovation 👇
 
-- 📧 **Email:** [gopalpoddar@zohomail.in](mailto:gopalpoddar@zohomail.in)  
+- 📧 **Email:** [gopalpoddar1607@gmail.com](mailto:gopalpoddar1607@gmail.com)  
 - 💼 **LinkedIn:** [linkedin.com/in/gopalpoddar4](https://linkedin.com/in/gopalpoddar4)  
 - 👨‍💻 **GitHub:** [github.com/gopalpoddar4](https://github.com/gopalpoddar4)  
 - 🎥 **YouTube:** [@gopalpoddar4](https://youtube.com/@gopalpoddar4)  
