@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Gopal Poddar — Full-Stack Android App Developer</h1>
+<h1 align="center">👋 Hey there, I'm Gopal Poddar — Android App Developer</h1>
 <p align="center">
   <i>Android Developer | Kotlin & Java Expert | B.Sc IT Student at Kolhan University</i>
 </p>
@@ -10,7 +10,7 @@
 ---
 
 ### 🧑‍💻 About Me
-Hi! I’m **Gopal Poddar**, a **Full-Stack Android Developer** from India passionate about building beautiful, scalable, and impactful Android applications.  
+Hi! I’m **Gopal Poddar**, an **Android Developer** from India passionate about building beautiful, scalable, and impactful Android applications.  
 I’m currently pursuing my **Bachelor of Science in Information Technology (B.Sc IT)** at **Kolhan University**, and I focus on turning ideas into reality through code.
 
 - 💼 Skilled in **Kotlin**, **Java**, **Room Database**, **Jetpack Compose**, **MVVM Architecture**, and **Material Design 3**  
